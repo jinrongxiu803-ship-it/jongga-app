@@ -1,0 +1,16 @@
+{
+  "name": "종가배팅 AI",
+  "short_name": "종가배팅",
+  "description": "코스피·코스닥 종가매매 AI 추천",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b0f",
+  "theme_color": "#090b0f",
+  "orientation": "portrait-primary",
+  "lang": "ko",
+  "icons": [
+    {"src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
